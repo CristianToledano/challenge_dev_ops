@@ -1,0 +1,9 @@
+groovy
+timestamper
+credentials-binding
+build-timeout
+pipeline-stage-view
+github-branch-source
+pipeline-github-lib
+gradle
+git
